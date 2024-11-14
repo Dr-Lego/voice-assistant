@@ -38,14 +38,12 @@ For example, change the name in the script to something like:
 NAME = "your_custom_name"
 ```
 
-
 ## Running
 
 1. Clone the repository and install dependencies.
 2. Run the assistant with:
    ```bash
    python main.py
-````
-
+   ```
 3. The assistant listens for commands, processes them, and provides responses in both text and speech.
 4. To stop the application, press **Ctrl+C**.
