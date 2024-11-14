@@ -1,0 +1,4 @@
+demoji==1.1.0
+dimits==0.0.30a0
+ollama==0.3.3
+RealtimeSTT==0.3.1
